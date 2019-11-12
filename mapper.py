@@ -35,6 +35,7 @@ class SubMapperParent(object):
         return SubMapper(self, **kargs)
 
     def collection(self, collection_name, resource_name, ):
+        pass
 
 class SubMapper(object):
     pass
